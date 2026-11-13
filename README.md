@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/mochi.svg" width="400" alt="Mochi, a round white hamster, walks in with her iced latte, sips it, farts, and now and then twirls in a pink tutu">
+</p>
 
-<!--
-**kr7001/kr7001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"><samp>hi, i'm kayleen!</samp></h3>
 
-Here are some ideas to get you started:
+<p align="center"><samp>
+data science and analytics @ nus<br>
+ai data science @ tiktok
+</samp></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><samp><b>graduating july 2027, open to fresh grad roles</b></samp></p>
+
+<p align="center"><samp>
+<a href="https://kayleen-leekr.vercel.app">website</a> / <a href="https://www.linkedin.com/in/kayleen-lee-kai-rong">linkedin</a>
+</samp></p>
+
+<p align="center"><samp>my work ▼ ▼ ▼</samp></p>
